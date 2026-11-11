@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer · Backend, Full-Stack & AI Integration
 
-[Portfolio](https://heymatthew.dev) · [Email](mailto:matthewkong921@gmail.com) · [GitHub](https://github.com/matthewxkong)
+[Portfolio](https://portfolio.matthewkong921.workers.dev/) · [Email](mailto:matthewkong921@gmail.com) · [GitHub](https://github.com/matthewxkong)
 
 I build backend services and full-stack applications that stay reliable as products grow. My work spans API architecture, data-intensive workflows, distributed systems, and practical AI integration.
 
@@ -51,4 +51,4 @@ I investigate reproducible bugs and contribute focused fixes, with particular in
 
 I'm interested in teams building useful products where backend reliability, clear architecture, and thoughtful AI integration matter.
 
-**[matthewkong921@gmail.com](mailto:matthewkong921@gmail.com)** · **[heymatthew.dev](https://heymatthew.dev)**
+**[matthewkong921@gmail.com](mailto:matthewkong921@gmail.com)** · **[Portfolio](https://portfolio.matthewkong921.workers.dev/)**
